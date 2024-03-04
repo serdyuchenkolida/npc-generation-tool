@@ -1,0 +1,23 @@
+{
+  "name": "npc-generation-tool",
+  "version": "1.0.0",
+  "description": "A simple JavaScript module to generate Non-Player Character (NPC) data.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npc",
+    "generation",
+    "tool"
+  ],
+  "author": "serdyuchenkolida",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serdyuchenkolida/npc-generation-tool.git"
+  },
+  "dependencies": {
+    "random-identity-generator": "^1.0.0"
+  }
+}
